@@ -60,7 +60,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://brainskev.github.io/Awesome-books/)
+- [Live Demo Link](https://mutai-gilbert.github.io/Awesome-books-with-ES6/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
